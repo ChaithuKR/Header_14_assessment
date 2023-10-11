@@ -1,0 +1,130 @@
+.bg-container {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    justify-content: center;
+    width: 100%;
+}
+.navbar {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 20px;
+    width: 1100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.overview {
+    color:darkblue;
+}
+
+a {
+    padding: 10px;
+}
+
+.btn-purchase {
+    background-color: green;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border-width: 0;
+    align-self: flex-end;
+    border-radius: 30px;
+}
+
+
+.main-container {
+    background-color: blue;
+    height: 100vh;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+}
+.text-con {
+    color:white;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 390px;
+
+}
+.main-heading {
+    font-size: 50px;
+}
+.para {
+    font-size:20px;
+}
+
+.btn-learn {
+    background-color: green;
+    color: white;
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    border-width: 0;
+}
+
+.form-con {
+    display: flex;
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    border-radius: 5px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heading {
+    color: blue;
+    align-self: center;
+}
+.input {
+    border-radius: 20px;
+    width: 250px;
+    height: 33px;
+    align-self: center;
+    border-width: 1px;
+}
+.or {
+    flex-direction: row;
+    display: flex;
+    color: black;
+}
+.terms-text {
+    font-size: 14px;
+}
+.btn-sign {
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+    width: 250px;
+    height: 40px;
+    border-width: 0;
+    align-self: center;
+}
+
+.terms {
+    align-self: center;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.line {
+    width: 30px;
+    background-color: black;
+
+}
+.btn-twitter {
+    color: white;
+    background-color: skyblue;
+    border-radius: 30px;
+    width: 250px;
+    height: 40px;
+    border-width: 0;
+    align-self: center;
+}
